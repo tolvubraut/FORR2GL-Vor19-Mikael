@@ -11,3 +11,5 @@ Verkefni 5 er bara simple platformer leikur þar sem spilarinn reynir að komast
 
 ### Vídeó
 <iframe src="https://drive.google.com/file/d/1xBo_YuZHhBHlRK-O9o6h_wjZqlFVQqbG/preview" width="640" height="480"></iframe>
+
+Ef vídeó-ið virkar ekki þá er [link hérna](https://drive.google.com/open?id=1xBo_YuZHhBHlRK-O9o6h_wjZqlFVQqbG) 
