@@ -25,8 +25,8 @@
         text-decoration: none;
     }
     .logo img{
-        width: 2.5em;
-        height: 3.5em;
+        width: 1em;
+        height: 2em;
     }
     .logotxt {   
         color: #0B3E7A;
