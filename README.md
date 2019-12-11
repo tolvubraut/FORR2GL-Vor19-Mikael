@@ -41,7 +41,7 @@
     <div class="headmenu"> 
         <div class="logo"> 
             <a href="https://tolvubraut.github.io/" title="Tölvubraut Tækniskólans"><img src="tskoli-logo.svg" title="Aftur á vef tölvubrautar"></a>  
-            <a href="https://tolvubraut.github.io/" title="Tölvubraut Tækniskólans" class="logotxt">TÖLVUBRAUT - <em>rétta leiðin</em></a>   
+            <a href="https://tolvubraut.github.io/" title="Tölvubraut Tækniskólans" class="logotxt">TÖLVUBRAUT</a>   
         </div>
     </div>
 </div> 
@@ -55,6 +55,6 @@ Verkefni 5 er bara simple platformer leikur þar sem spilarinn reynir að komast
 [Verkefni 5.zip (23.6 MB)](https://drive.google.com/open?id=1lfx8zmYjfluP8qEQfPu_EYLse_0mjUSI)
 
 ### Vídeó
-<iframe src="https://drive.google.com/file/d/1xBo_YuZHhBHlRK-O9o6h_wjZqlFVQqbG/preview" width="640" height="480"></iframe>
+<iframe style="height: auto;  width: 100%; max-width: 960px;" src="https://drive.google.com/file/d/1xBo_YuZHhBHlRK-O9o6h_wjZqlFVQqbG/preview" width="640" height="480"></iframe>
 
-Ef vídeó-ið virkar ekki þá er [link hérna](https://drive.google.com/open?id=1xBo_YuZHhBHlRK-O9o6h_wjZqlFVQqbG) 
+Ef vídeó-ið virkar ekki þá er [linkur hérna](https://drive.google.com/open?id=1xBo_YuZHhBHlRK-O9o6h_wjZqlFVQqbG) 
